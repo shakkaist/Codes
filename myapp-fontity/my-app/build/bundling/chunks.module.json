@@ -1,0 +1,81 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.46.0",
+  "hash": "a254c8a99069bf7c8b34",
+  "publicPath": "/static/",
+  "outputPath": "/Users/blockchain/Documents/Codes /myapp-fontity/my-app/build/static",
+  "assetsByChunkName": {
+    "list": "list.module.js",
+    "my-app": "my-app.module.js"
+  },
+  "assets": [
+    {
+      "name": "list.module.js",
+      "size": 48193,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "my-app.module.js",
+      "size": 5269014,
+      "chunks": [
+        "my-app"
+      ],
+      "chunkNames": [
+        "my-app"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "my-app": {
+      "chunks": [
+        "my-app"
+      ],
+      "assets": [
+        "my-app.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "my-app": {
+      "chunks": [
+        "my-app"
+      ],
+      "assets": [
+        "my-app.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
